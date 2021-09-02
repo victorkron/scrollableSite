@@ -1,0 +1,12 @@
+.logo {
+  position: fixed;
+  left: 10vw;
+  bottom: 4vh;
+
+  height: 2vh;
+  width: 6vw;
+
+  background-image: url('../png/onpoint_logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}

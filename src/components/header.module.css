@@ -1,0 +1,14 @@
+.logo {
+  position: fixed;
+  top: 4vh;
+  left: 10vw;
+  /* border: 1px solid red; */
+  height: 4vh;
+  width: 15vw;
+
+
+  background-image: url('../png/home_logo.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
